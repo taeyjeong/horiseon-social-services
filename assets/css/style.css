@@ -1,3 +1,4 @@
+/* GENERAL STYLES */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* HEADER */
 
 header {
     padding: 20px;
@@ -41,6 +44,8 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* TEXT STYLES */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,6 +54,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* HERO DIV */
 
 .hero {
     height: 800px;
@@ -68,6 +75,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* BENEFITS ASIDE */
 
 main {
     width: 75%;
@@ -102,6 +111,8 @@ aside {
     max-width: 150px;
 }
 
+/* SERVICE SECTIONS */
+
 .service {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +130,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* FOOTER */
 
 footer {
     padding: 30px;
